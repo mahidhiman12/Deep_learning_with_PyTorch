@@ -7,7 +7,7 @@ This repo serves as a hands-on learning journal and will be covering everything 
 
 | Day | Topic Covered | Description |
 |-----|---------------|-------------|
-| 1   | Tensors       | Creation, indexing, operations, reshaping |
+| 1   | Tensors       | Creation, indexing, operations, reshaping , viewing and stacking ,Squeezing, unsqueezing and permuting |
 | 2   | Fundamentals  | PyTorch and NumPy, Reproducibility, Accessing a GPU, Setting up device agnostic code , Exercise Questions |
 
 
