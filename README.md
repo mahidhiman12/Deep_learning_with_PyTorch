@@ -9,8 +9,7 @@ This repo serves as a hands-on learning journal and will be covering everything 
 |-----|---------------|-------------|
 | 1   | Tensors       | Creation, indexing, operations, reshaping , viewing and stacking ,Squeezing, unsqueezing and permuting |
 | 2   | Fundamentals  | PyTorch and NumPy, Reproducibility, Accessing a GPU, Setting up device agnostic code , Exercise Questions |
-| 3   | Workflow      | Creating a dataset with linear regression,Creating training and test sets ,Creating first PyTorch model, Making predictions with our model ,Training a model with PyTorch
-                      | Setting up a loss function and optimizer, PyTorch training loop intuition, Running our training loop epoch by epoch , Writing testing loop code ,Saving/loading a model , Putting everything                       |  together |
+| 3   | Workflow      | Creating a dataset with linear regression,Creating training and test sets ,Creating first PyTorch model, Making predictions with our model ,Training a model with PyTorch , Setting up a loss function and optimizer, PyTorch training loop intuition, Running our training loop epoch by epoch , Writing testing loop code ,Saving/loading a model , Putting everything                       |  together |
 
 
 This contains relevant `.ipynb` files along with my notes and experiments.
