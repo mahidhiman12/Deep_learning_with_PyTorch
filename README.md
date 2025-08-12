@@ -1,9 +1,9 @@
-# PyTorch Daily Practice 
-A hands-on collection of PyTorch resources —> perfect for beginners and intermediate learners looking to build real intuition.
+# Deep Learning with PyTorch 
+A hands-on collection of Deep Learning resources —> perfect for beginners and intermediate learners looking to build real intuition.
 If you're learning PyTorch or need quick refreshers while working on deep learning projects, this repo's designed to be a useful companion.
 
 This repository documents my daily progress as I learn and build with **PyTorch**, exploring core deep learning concepts.
-This repo serves as a hands-on learning journal and will be covering everything from tensors and autograd to neural networks and beyond.
+This repo serves as a hands-on learning journal and will be covering everything from tensors to neural networks , cv and beyond.
 
 ## What’s Inside
 
