@@ -16,6 +16,8 @@ This repo serves as a hands-on learning journal and will be covering everything 
 | 4     | Neural Network | NN with PyTorch -> Linear Regression , Binary Classification , Multiclass Classification models |
 | 4.1   | Exercises     | Exercises related to topics covered in 4  |
 | 5     | Computer Vision | TorchVision , Convolutional neural networks , FashionMNIST ,         predictions with a confusion matrix
+| 5.1 |  Exercises | MNIST , Exercises related to topics covered in 5 |
+| 6   | Custom Datasets | Coming soon.. |
 
 
 
