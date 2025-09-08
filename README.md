@@ -14,6 +14,10 @@ This repo serves as a hands-on learning journal and will be covering everything 
 | 3   | Workflow      | Creating a dataset with linear regression,Creating training and test sets ,Creating first PyTorch model, Making predictions with our model ,Training a model with PyTorch , Setting up a loss function and optimizer, PyTorch training loop intuition, Running our training loop epoch by epoch , Writing testing loop code ,Saving/loading a model , Putting everything                       |  together |
 | 3.1   |   Exercises   | Exercises related to topics covered in 3 |
 | 4     | Neural Network | NN with PyTorch -> Linear Regression , Binary Classification , Multiclass Classification models |
+| 4.1   | Exercises     | Exercises related to topics covered in 4  |
+| 5     | Computer Vision | TorchVision , Convolutional neural networks , FashionMNIST ,         predictions with a confusion matrix
+
+
 
 This contains relevant `.ipynb` files along with my notes and experiments.
 
