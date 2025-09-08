@@ -41,7 +41,7 @@ This contains relevant `.ipynb` files along with my notes and experiments.
 ## 📫 Connect with Me
 
 - GitHub: [mahidhiman12](https://github.com/mahidhiman12)  
-- LinkedIn: [Mahi Dhiman](www.linkedin.com/in/mahidhiman12)  
+- LinkedIn: [Mahi Dhiman](https://www.linkedin.com/in/mahidhiman12)  
 
 > “Consistency over perfection - one model, one bug, one step at a time.” 🔁
 
