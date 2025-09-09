@@ -3,7 +3,7 @@ A hands-on collection of Deep Learning resources —> perfect for beginners and 
 If you're learning PyTorch or need quick refreshers while working on deep learning projects, this repo's designed to be a useful companion.
 
 This repository documents my daily progress as I learn and build with **PyTorch**, exploring core deep learning concepts.
-This repo serves as a hands-on learning journal and will be covering everything from tensors to neural networks , cv and beyond.
+This repo serves as a hands-on learning journal and will be covering everything from tensors to neural networks , cv and beyond that i learn from **Daniel Bourke's course**
 
 ## What’s Inside
 
