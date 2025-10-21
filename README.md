@@ -19,6 +19,8 @@ This repo serves as a hands-on learning journal and will be covering everything 
 | 5.1 |  Exercises | MNIST , Exercises related to topics covered in 5 |
 | 6   | Custom Datasets | Downloading a custom dataset of pizza, steak and sushi images, Creating image DataLoaders,  Creating a custom dataset class (overview), Writing a custom dataset class from scratch ,                                Turning custom datasets into DataLoaders ,  Data augmentation,  Building a baseline model,  Predicting on custom data |
 | 7   | Transfer Learning | Coming soon |
+
+
 This contains relevant `.ipynb` files along with my notes and experiments.
 
 ## Tech Stack
